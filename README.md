@@ -5,16 +5,16 @@
 ## لیست وب‌سرویس‌ها
 
 1. **ساخت جوک**  
-   URL: `https://appapi.ir/src/jok-fa/`
+   `https://appapi.ir/src/jok-fa/`
 
 2. **ساخت بیوگرافی**  
-   URL: `https://appapi.ir/src/bio-fa/`
+   `https://appapi.ir/src/bio-fa/`
 
 3. **نام کشور تصادفی**  
-   URL: `https://appapi.ir/src/country-fa/`
+   `https://appapi.ir/src/country-fa/`
 
 4. **قیمت ارزهای دیجیتال زنده**  
-   URL: `https://appapi.ir/src/crypto-prices/`
+   `https://appapi.ir/src/crypto-prices/`
 
 ## آموزش استفاده از وب‌سرویس‌ها در PHP
 
